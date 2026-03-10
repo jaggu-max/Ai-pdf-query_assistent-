@@ -1,0 +1,5 @@
+{
+  "name": "AI PDF Student Assistant",
+  "description": "An intelligent study assistant for students that reads PDFs, extracts correct answers with visual snippets, and provides additional knowledge via Google Search.",
+  "requestFramePermissions": ["microphone"]
+}
