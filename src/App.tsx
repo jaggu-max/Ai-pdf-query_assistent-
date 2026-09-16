@@ -833,7 +833,7 @@ export default function App() {
                         referrerPolicy="no-referrer"
                       />
                     </div>
-                    <h2 className="text-3xl font-bold mb-1">abhishek halasagi</h2>
+                    <h2 className="text-3xl font-bold mb-1">Jagadeesh Benoor</h2>
                     <p className="text-cyan-500 font-medium mb-6">Expert AI Engineer & PDF Specialist</p>
                     
                     <div className="space-y-6 text-gray-400 text-sm leading-relaxed">
@@ -866,7 +866,7 @@ export default function App() {
 
                       <div className="flex items-center gap-4 pt-4">
                         <a 
-                          href="https://www.instagram.com/_mr__abhi__10" 
+                          href="https://www.instagram.com/god_of_world_j/" 
                           target="_blank" 
                           rel="noopener noreferrer"
                           className="flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl font-bold hover:scale-105 transition-all"
